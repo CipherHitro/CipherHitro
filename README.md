@@ -134,7 +134,7 @@ I'm a full-stack developer who loves building **secure, production-ready web app
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Live-Demo-success?style=flat-square"/>
       </p>
-      <a href="https://ai.mentalorbit.tech/">🔗 Live Demo</a>
+      <a href="https://ai-mind-rohit.vercel.app/">🔗 Live Demo</a>
     </td>
     <td width="50%">
       <h3>🎮 Tic-Tac-Toe Ultimate</h3>
