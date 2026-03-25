@@ -35,7 +35,7 @@ I'm a full-stack developer who loves building **secure, production-ready web app
 - 🥈 **Runner-Up** at GDG on Campus TechSprint Hackathon with *Smart Civic Eye*
 - 🔐 Built *PassMan* — a full-stack password manager with AES-256 + bcrypt + JWT
 - 🤖 Developed *KBC* — an AI-powered quiz platform with real-time game state management
-- 📦 Deployed production apps across **Vercel**, **Render**, and **Netlify**
+- 📦 Deployed production apps across **Vercel**, **Render**
 
 ---
 
