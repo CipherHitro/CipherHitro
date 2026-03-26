@@ -93,8 +93,7 @@ I'm a full-stack developer who loves building **secure, production-ready web app
       <p>Full-stack civic issue tracker bridging citizens and municipal authorities. Built under hackathon constraints — secured <strong>2nd place</strong> at GDG TechSprint.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
         <img src="https://img.shields.io/badge/Live-Demo-success?style=flat-square"/>
       </p>
       <a href="https://smartciviceye.mentalorbit.tech/">🔗 Live Demo</a>
@@ -116,7 +115,7 @@ I'm a full-stack developer who loves building **secure, production-ready web app
       <h3>🎮 KBC – AI Quiz Platform</h3>
       <p>Interactive quiz system with real-time countdown timers, lifeline logic, session validation, and persistent MongoDB storage for users and game progress.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/JWT-Auth-black?style=flat-square"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Live-Demo-success?style=flat-square"/>
